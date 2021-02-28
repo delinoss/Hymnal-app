@@ -1,0 +1,20 @@
+com/example/hymnal2/NumberListAdaptor.java
+ com.example.hymnal2.NumberListAdaptor
+com/example/hymnal2/BuildConfig.java
+ com.example.hymnal2.BuildConfig
+com/example/hymnal2/SearchActivity.java
+ com.example.hymnal2.SearchActivity
+com/example/hymnal2/HelpActivity.java
+ com.example.hymnal2.HelpActivity
+com/example/hymnal2/ListAdaptor.java
+ com.example.hymnal2.ListAdaptor
+com/example/hymnal2/ImageModel.java
+ com.example.hymnal2.ImageModel
+com/example/hymnal2/Pager.java
+ com.example.hymnal2.Pager
+com/example/hymnal2/MyPagerAdapter.java
+ com.example.hymnal2.MyPagerAdapter
+ com.example.hymnal2.MyPagerAdapter$ViewHolder
+com/example/hymnal2/MainActivity.java
+ com.example.hymnal2.MainActivity
+ com.example.hymnal2.MainActivity$1
